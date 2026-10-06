@@ -1,5 +1,5 @@
 class Beamctl < Formula
-  desc "Control a Logitech Litra Beam LX light from the command line"
+  desc "Command-line control for a Logitech Litra Beam LX light"
   homepage "https://github.com/nenych/beamctl"
   url "https://github.com/nenych/beamctl/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "4059f8924a7a53514fe8aff240e17b94426d65a9a132a899dab70fc163def091"
