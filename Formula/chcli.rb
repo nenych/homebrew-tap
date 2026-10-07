@@ -1,8 +1,8 @@
 class Chcli < Formula
   desc "Interactive ClickHouse client with autocomplete, profiles and OAuth/OIDC login"
   homepage "https://github.com/nenych/chcli"
-  url "https://github.com/nenych/chcli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b295469668ba3becf7c41934e91ff4a902eb2403731c875283346cc4a3b27c0d"
+  url "https://github.com/nenych/chcli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "8390f2da26c5714ddf08bf9be9ae41e73e890e38ad642301e1cb4dbc17854729"
   license "MIT"
 
   depends_on "go" => :build
